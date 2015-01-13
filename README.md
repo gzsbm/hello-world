@@ -1,6 +1,6 @@
 ## hello-world
 # This is a copy that is being edited.
-I'm not going to write a commit message.
+I'm now going to write a commit message.
 
 This is a test.
 
